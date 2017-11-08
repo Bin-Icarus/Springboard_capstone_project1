@@ -1,0 +1,3 @@
+1. Finish data wrangling -- submit SQL case study report);
+2. Write a new project proposal;
+3. Start meet-up and data storytelling sections of curriculum.
